@@ -1,5 +1,5 @@
 
-````md
+
 ## 📌 JSX Kuralı: Tek Parent (Root) Eleman
 
 React / React Native’de her component’in `return` içinde **tek bir kök (parent) JSX elemanı** olmalıdır.
