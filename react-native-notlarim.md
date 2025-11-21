@@ -1,4 +1,3 @@
-Tabii, şöyle temizleyelim 👇
 
 ````md
 ## 📌 JSX Kuralı: Tek Parent (Root) Eleman
