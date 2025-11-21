@@ -16,3 +16,20 @@ export default function App() {
     </View>
   );
 }
+✅ Doğru kullanım (tek kapsayıcı, içinde istediğim kadar eleman):
+
+```jsx
+export default function App() {
+  return (
+    <View style={styles.container}>
+      <View>
+        <Text>Merhaba</Text>
+      </View>
+
+      <View>
+        <Text>Ben ikinci view</Text>
+      </View>
+    </View>
+  );
+}
+Kodu kopyala
