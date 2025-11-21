@@ -16,9 +16,11 @@ export default function App() {
     </View>
   );
 }
+```jsx
+```jsx
 ✅ Doğru kullanım (tek kapsayıcı, içinde istediğim kadar eleman):
 
-```jsx
+
 export default function App() {
   return (
     <View style={styles.container}>
@@ -32,4 +34,3 @@ export default function App() {
     </View>
   );
 }
-Kodu kopyala
