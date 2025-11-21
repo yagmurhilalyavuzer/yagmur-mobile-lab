@@ -1,4 +1,4 @@
-# 📱Yağmur Mobile Lab – Yağmur’un Mobil Geliştirme Günlüğü
+# 📱Yagmur's Mobile Lab – Yağmur’un Mobil Geliştirme Günlüğü
 
 Bu repo, mobil geliştirme öğrenirken yaptığım **tüm denemeleri, örnekleri ve mini projeleri** topladığım yer.  
 Amacım: *“Ne çalıştım, ne kodladım, hangi teknolojilere dokundum?”* sorusunun cevabını burada net görmek.
