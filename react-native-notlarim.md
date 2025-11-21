@@ -1,3 +1,6 @@
+Tabii, şöyle temizleyelim 👇
+
+````md
 ## 📌 JSX Kuralı: Tek Parent (Root) Eleman
 
 React / React Native’de her component’in `return` içinde **tek bir kök (parent) JSX elemanı** olmalıdır.
@@ -16,11 +19,11 @@ export default function App() {
     </View>
   );
 }
-```jsx
-```jsx
+````
+
 ✅ Doğru kullanım (tek kapsayıcı, içinde istediğim kadar eleman):
 
-
+```jsx
 export default function App() {
   return (
     <View style={styles.container}>
@@ -34,3 +37,6 @@ export default function App() {
     </View>
   );
 }
+```
+
+
