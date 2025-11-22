@@ -27,7 +27,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <View>
-        <Text>Merhaba</Text>
+        <Text>Merhabaa</Text>
       </View>
 
       <View>
