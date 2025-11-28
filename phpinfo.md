@@ -24,7 +24,8 @@ Thread Safety → enabled (TS) mi, disabled (NTS) mi
 
 Bu bilgiler, indireceğin DLL dosyasının adını belirleyecek.
 
-<?php phpinfo();
-
-?>
+  ```php
+  <?php
+  phpinfo();
+  ?>
 
