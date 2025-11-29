@@ -69,7 +69,7 @@ export default function App() {
                 setScannedData(null);
               }}
             >
-              <Text style={styles.buttonText}>Tekrar Tara</Text>
+              <Text style={styles.buttonText}>Tekrar Taraa</Text>
             </TouchableOpacity>
           </View>
         )}
